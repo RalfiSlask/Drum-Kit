@@ -1,6 +1,6 @@
 
 
-![clockapp](./assets/Drumkit.png)
+![drumkit](./Drumkit.png)
 
 
 Built with
